@@ -113,20 +113,14 @@ LCRI-Web-Based-Artifact/
 └── README.md           # Documentation
 ```
    
-```jsx
-import React from 'react';
-import LCRIApp from './LCRIApp';
+## Technology Stack
 
-function App() {
-  return (
-    <div className="App">
-      <LCRIApp />
-    </div>
-  );
-}
+- **React 18**: Frontend framework for building the interactive UI
+- **Vite**:	Next-generation build tool for fast development
+- **Vanilla CSS**: Styling with custom design system
+- **SVG**: Interactive data visualizations (radar chart, gauge)
 
-export default App;
-```
+---
 4. Start your development server
    ```
    npm run dev
