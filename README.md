@@ -119,7 +119,7 @@ LCRI-Web-Based-Artifact/
 ## 🏛️ Academic & Research Context
 This artifact was developed to support academic research into social engineering vulnerabilities on professional networking platforms.
 
-- *Author*: AElijah Elorm Adzigblie
+- *Author*: Elijah Elorm Adzigblie
 - *Institution*: School of Computing, Engineering and Technology, Robert Gordon University, Aberdeen
 - *Date*: July 2026
 - *Artifact Type*: Design Science Research (DSR) Web-Based Artifact
