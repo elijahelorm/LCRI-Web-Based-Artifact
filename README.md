@@ -59,16 +59,6 @@ The LCRI score (0–100) is calculated using a **two-step normalized weighted su
 
 ---
 
-## 🧠 Knowledge Graph Ontology
-
-The LCRI is grounded in a knowledge graph ontology adapted from the social engineering domain ontology by *Wang et al. (2021)* and extended by *Omowumi, McDermott and Munasinghe (2025)*. 
-
-The application tracks **5 Cross-Dimensional Risk Path Flags (P1–P5)**. These flags do not alter the numerical score but provide qualitative risk intelligence by identifying when specific factors from multiple dimensions combine to enable an attack method and consequence.
-
-*Example Path (P1 - Authority Pretexting):*
-`Supervisor Name Visible (D1)` + `Department Visible (D3)` + `Vulnerable to Authority Pressure (S3)` ➡️ **Pretexting ➡️ Credential Theft**
-
----
 
 ## 🖥️ Application Flow
 
