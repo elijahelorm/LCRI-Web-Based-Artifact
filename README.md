@@ -4,6 +4,7 @@
 ![Client-Side](https://img.shields.io/badge/Execution-100%25_Client--Side-green)
 ![Privacy](https://img.shields.io/badge/Data-Zero_Collection-success)
 ![License](https://img.shields.io/badge/License-Academic_Research-blue)
+![Author](https://img.shields.io/badge/Author-Elijah_Elorm_Adzigblie-8A2BE2)
 
 The **LinkedIn Cyber Risk Index (LCRI)** is a web-based assessment tool designed to evaluate a user's vulnerability to social engineering attacks based on their LinkedIn profile disclosure, platform behaviour, and susceptibility to targeted scenarios. 
 
